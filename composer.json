@@ -1,5 +1,5 @@
 {
-    "name": "alexey/book-shop-mvc",
+    "name": "sbook-shop-mvc",
     "authors": [],
     "require": {
         "bramus/router": "~1.3",
